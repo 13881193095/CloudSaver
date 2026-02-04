@@ -9,7 +9,7 @@
 
 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署。
 
-官方Telegram群组：[https://t.me/cloud_saver](https://t.me/cloud_saver)
+官方Telegram群组：[https://t.me/+4fWSSbQn5rMxYjM1](https://t.me/+4fWSSbQn5rMxYjM1)
 
 官方QQ交流群（[二维码](https://github.com/jiangrui1994/CloudSaver?tab=readme-ov-file#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)）：
 
